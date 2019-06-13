@@ -1,0 +1,125 @@
+{
+  "result": true,
+  "data": [
+    {
+      "name": "系统设置",
+      "pid": 0,
+      "id": 1,
+      "open": true
+    },
+    {
+      "name": "测试菜单",
+      "pid": 0,
+      "id": 2,
+      "open": true
+    },
+    {
+      "name": "个人中心",
+      "pid": 0,
+      "id": 3,
+      "open": true
+    },
+    {
+      "name": "一级菜单a4",
+      "pid": 1,
+      "id": 4,
+      "open": true
+    },
+    {
+      "name": "一级菜单a5",
+      "pid": 1,
+      "id": 5,
+      "open": true
+    },
+    {
+      "name": "一级菜单a6",
+      "pid": 1,
+      "id": 6,
+      "open": true
+    },
+    {
+      "name": "一级菜单a7",
+      "pid": 2,
+      "id": 7,
+      "open": true
+    },
+    {
+      "name": "一级菜单a8",
+      "pid": 2,
+      "id": 8,
+      "open": true
+    },
+    {
+      "name": "一级菜单a9",
+      "pid": 3,
+      "id": 9,
+      "open": true
+    },
+    {
+      "name": "二级菜单b10",
+      "pid": 4,
+      "id": 10,
+      "open": true
+    },
+    {
+      "name": "二级菜单b11",
+      "pid": 4,
+      "id": 11,
+      "open": true
+    },
+    {
+      "name": "二级菜单b12",
+      "pid": 5,
+      "id": 12,
+      "open": true
+    },
+    {
+      "name": "二级菜单b13",
+      "pid": 7,
+      "id": 13,
+      "open": true
+    },
+    {
+      "name": "三级菜单c14",
+      "pid": 10,
+      "id": 14,
+      "open": true
+    },
+    {
+      "name": "四级菜单d15",
+      "pid": 14,
+      "id": 15,
+      "open": true
+    },
+    {
+      "name": "五级菜单e16",
+      "pid": 15,
+      "id": 16,
+      "open": true
+    },
+    {
+      "name": "菜单",
+      "pid": 8,
+      "id": 17,
+      "open": true
+    },
+    {
+      "name": "菜单",
+      "pid": 9,
+      "id": 18,
+      "open": true
+    },
+    {
+      "name": "菜单",
+      "pid": 10,
+      "id": 19,
+      "open": true
+    },
+    {
+      "name": "菜单",
+      "pid": 11,
+      "id": 20,
+      "open": true
+    }
+  ]
+}
